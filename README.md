@@ -1,7 +1,17 @@
+## Mapty-app/README.md
+
 Look at this amazing web app using OOP in Javascript, it is really beautiful app,
+
 I hope to be able to add more features to this project in the future.
 
+### Features
 
-![screencapture-127-0-0-1-5500-index-html-2024-12-12-20_15_47](https://github.com/user-attachments/assets/a8984057-a23f-4171-9bbb-27cb79305fc9)
+* Display location on map
+* Submitting workouts on any location on the map
+* Select workout type (running / cycling)
+* Select workout to view it on the map
+* User's workouts are saved using local-storage API
 
-open it on computer for full screen.
+[attachment_0](attachment)(https://github.com/user-attachments/assets/a8984057-a23f-4171-9bbb-27cb79305fc9)
+
+Open it on computer for full screen.
