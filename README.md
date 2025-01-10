@@ -14,5 +14,3 @@ I hope to be able to add more features to this project in the future.
 
 ![screencapture-127-0-0-1-5500-index-html-2024-12-12-20_15_47](https://github.com/user-attachments/assets/e546908e-a6a8-4bee-ab99-908752f63ed5)
 
-
-Open it on computer for full screen.
